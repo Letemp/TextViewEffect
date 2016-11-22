@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TextView特效</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_top">欢迎来到张杰的主页&lt;font color=blue&gt;我是歌手张杰&lt;/font&gt;</string>
+    <string name="str_center">张杰</string>
+    <string name="str_bottom">如有疑问请联系我\n联系电话：15979106067\nE-mail: 294460854@qq.com\n网址: http://www.baidu.com</string>
+
+</resources>
